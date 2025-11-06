@@ -1,0 +1,1 @@
+export { CatalogAdditionalInfoCard } from './CatalogAdditionalInfoCard';
